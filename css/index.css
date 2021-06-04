@@ -59,7 +59,7 @@ html, body {
 }
 /*Header Styles Home*/
 .header {
-    justify-content:space-between;
+    
     word-spacing:70px;
     margin:5% 8%;
     
@@ -225,4 +225,27 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+/*About Page*/
+.header2 {
+    
+    word-spacing:70px;
+    margin:5% 8%;
+  
+}
+
+
+button { 
+    padding:7px;
+    max-width:10%;
+    border: 1px solid black;
+    border-radius:10px;
+    background: white;
+    white-space:nowrap;
+    
+}
+
+button span{
+    vertical-align:middle;
 }
