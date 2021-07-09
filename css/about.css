@@ -144,11 +144,6 @@ header{
     word-spacing:70px;
     margin: 5% 8%;
 }
-.top{
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 
 
 header a{
@@ -156,8 +151,26 @@ header a{
     color:black;
     font-weight:bold;
 }
+.logo{
+    display:inline-flex;
+}
 
+.top{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 /*Body Styles*/
 h3{
     margin-top:2%;
 }
+
+img{
+    display:flex;
+}
+.dottedLine{
+    border: none;
+    border-top: 2px dotted black;
+    margin-bottom:3%;
+    margin-top:3%;
+  } 
