@@ -144,3 +144,12 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+header{
+    display:inline-flex;
+ 
+}
+nav a{
+    display:inline-flex;
+    justify-content:space-evenly;
+    
+}
