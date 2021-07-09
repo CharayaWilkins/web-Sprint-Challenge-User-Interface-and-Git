@@ -174,3 +174,11 @@ img{
     margin-bottom:3%;
     margin-top:3%;
   } 
+
+/*Position styling*/
+.containerAbout-page{
+    /* display:inline-flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+     */
+}
